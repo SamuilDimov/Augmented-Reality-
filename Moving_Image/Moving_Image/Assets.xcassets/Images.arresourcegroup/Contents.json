@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Cardss.arreferenceimage"
+    },
+    {
+      "filename" : "Flower.arreferenceimage"
+    },
+    {
+      "filename" : "milkmaid.arreferenceimage"
+    },
+    {
+      "filename" : "Starry Night.arreferenceimage"
+    },
+    {
+      "filename" : "walkingwoman.arreferenceimage"
+    }
+  ]
+}
