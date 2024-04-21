@@ -1,4 +1,4 @@
-# Duo Assignment 2 SCART
+# Duo Assignment 2 
 
 
 
